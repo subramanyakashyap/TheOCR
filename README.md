@@ -10,3 +10,6 @@ The Pre-requisits before running this project
 
 5. Install Tesseract-OCR and download Trainedata provided by google.
 6. Configure the Disk:/path of path/to/the/tessdata to environment variable.
+
+
+STATUS: Working on betterment of GUI
